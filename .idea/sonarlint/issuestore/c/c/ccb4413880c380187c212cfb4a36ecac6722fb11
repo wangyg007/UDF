@@ -1,0 +1,12 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÌÔû‚8Ü‹Ðð‰.
+gsquid:UselessImportCheck"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´8ÁÁëÐ’.
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(»óÓÚþÿÿÿÿ8›‡¡ó‰.
+isquid:UselessImportCheck"9Remove this unused import 'java.io.BufferedOutputStream'.(«èÍôýÿÿÿÿ8éƒ¯Ð’.
+Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¿º»Ð’.
+Fsquid:S1148G"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¿º»Ð’.
+nsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ôß¡Öûÿÿÿÿ8â¸’Õ‰.
+isquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(½çØÒ8£àÈÕ‰.
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(î¯ÔÉ8½ª“Ð’.
+Isquid:S1135"2Complete the task associated to this TODO comment.(´ËîÀ
+Lsquid:S14819".Remove this unused "randomStr" local variable.(­˜î¬8œø¤Ð’.

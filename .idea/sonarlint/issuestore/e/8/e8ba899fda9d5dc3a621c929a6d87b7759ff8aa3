@@ -1,0 +1,7 @@
+
+Isquid:S1135"2Complete the task associated to this TODO comment.(´ËîÀ
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(œ£ƒ¤ıÿÿÿÿ8²ØÇ°ˆ.
+;squid:S2119"Save and re-use this "Random".(¼İÅf8¬“°ˆ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ£ƒ¤ıÿÿÿÿ8²ØÇ°ˆ.
+}squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8ÿ°ˆ.

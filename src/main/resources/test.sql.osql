@@ -1,0 +1,4 @@
+--name:test.sql
+--author:Administrator
+--create time:2020-02-27 16:30
+select random_num(4);

@@ -1,0 +1,14 @@
+
+dsquid:S2142B"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8©∏¿‰ï.
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ﬁ¶ùº˘ˇˇˇˇ8àœ◊Âï.
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(⁄∂üÃ˙ˇˇˇˇ8˛ôπ‰ï.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ö®£Ì˘ˇˇˇˇ8¶ø‰ï.
+Fsquid:S11485"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ8„ìΩ‰ï.
+Ssquid:S2446#"0"notify" may not wake up the appropriate thread.(Ûƒ£∂¯ˇˇˇˇ8ª‘©‰ï.
+dsquid:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8„ìΩ‰ï.
+Fsquid:S1148C"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ8©∏¿‰ï.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ö®£Ì˘ˇˇˇˇ8©∏¿‰ï.
+Wsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(Á£äM8¨óà‰ï.
